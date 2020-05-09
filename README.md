@@ -1,5 +1,5 @@
 # bunnycdn-storage
-a small wrapper for the bunnycdn storage api
+a small wrapper for the [bunnycdn](https://bunnycdn.com) storage api
 
 # Building
 install dependencies with npm/yarn and then run `npm build` or `yarn build`
@@ -25,3 +25,6 @@ bunnyStorage.download('bunny.jpg', 'stream'); // ReadableStream
 
 // delete a file
 bunnyStorage.delete('bunny.jpg');
+```
+# Disclaimer
+Note that this project and the maintainer(s) of this repository are in no way, shape or form affiliated with BunnyCDN.
