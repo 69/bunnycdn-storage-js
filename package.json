@@ -1,7 +1,8 @@
 {
   "name": "bunnycdn-storage",
-  "version": "1.0.0",
-  "main": "dist/index.js",
+  "version": "1.0.1",
+  "main": "dist/main.js",
+  "types": "dist/main.d.ts",
   "repository": "https://github.com/69/bunnycdn-storage.git",
   "license": "GPL-3.0",
   "scripts": {
