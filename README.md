@@ -1,6 +1,9 @@
 # bunnycdn-storage
 a small wrapper for the bunnycdn storage api
 
+# Building
+install dependencies with npm/yarn and then run `npm build` or `yarn build`
+
 # Usage
 ```js
 const BunnyStorage = require('bunnycdn-storage').default;
