@@ -1,4 +1,5 @@
 # bunnycdn-storage
+![GitHub](https://img.shields.io/github/license/69/bunnycdn-storage-js?style=flat-square) ![npm](https://img.shields.io/npm/v/bunnycdn-storage?style=flat-square)
 a small wrapper for the [bunnycdn](https://bunnycdn.com) storage api
 
 # Building
