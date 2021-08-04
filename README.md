@@ -9,7 +9,8 @@ install dependencies with npm/yarn and then run `npm build` or `yarn build`
 # Usage
 ```js
 const BunnyStorage = require('bunnycdn-storage').default;
-const bunnyStorage = new BunnyStorage('API-KEY', 'STORAGE-ZONE-NAME');
+const bunnyStorage = new BunnyStorage('API-KEY', 'STORAGE-ZONE-NAME'); // Default primary region: Falkenstein
+const bunnyStorage = new BunnyStorage('API-KEY', 'STORAGE-ZONE-NAME', 'ny'); // Primary region: New York
 
 
 // list all files in zone / path
