@@ -16,6 +16,7 @@ export default class BunnyCDNStorage {
         AccessKey: apiKey
       },
       maxContentLength: Infinity,
+      maxBodyLength: Infinity,
     })
 
   }
