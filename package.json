@@ -9,7 +9,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "form-data": "^3.0.0"
   },
   "devDependencies": {
